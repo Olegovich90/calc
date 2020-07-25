@@ -1,0 +1,36 @@
+.hydrated {
+  --background: black;
+  justify-content: center;
+}
+.Input {
+  height: 19vh;
+  color: white;
+  font-size: 12vh;
+  margin-top: 0.5vh;
+  margin-right: 1.5vh;
+  justify-content: right;
+}
+.text {
+  padding-top: 3vh;
+}
+.Button {
+  background-color: grey;
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 5.3vh;
+  height: 12vh;
+  justify-content: center;
+  width: 21%;
+  margin: 1vh 0.8vh;
+}
+.Button.zero {
+  width: 44.5%;
+}
+.ex {
+  margin-left: 1vh;
+  font-size: 4vh;
+}
+.histbtn {
+  font-size: 140%;
+}
